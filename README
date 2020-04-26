@@ -1,7 +1,0 @@
-https://codeit.bg/eng/round/74
-Competition description:
-Image clustering, compressing image to only 16 colours with minimal MSE, and then restoring it.
-
-Solution:
-Using k-means++ and k-medoids for compressing.
-adjusted gaussian blur for restoring.
